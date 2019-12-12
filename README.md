@@ -13,11 +13,11 @@ WebGL 1920x780
 
 ### Visuals: 
 
-#Programm Executed:
+# Programm Executed:
 <div>
 <img src = "Screenshots/running.JPG" width = "500">
 </div>
-#Programm Initialisation
+# Programm Initialisation
 <div>
 <img src = "Screenshots/init.JPG" width = "500">
 </div> 
