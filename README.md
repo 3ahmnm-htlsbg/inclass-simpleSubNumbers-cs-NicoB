@@ -4,14 +4,21 @@
 Two Inputfields in which numbers can be put in. The script substract the second number from the first and displays the result.
 
 ### Development platform: 
-Windows 10, Unity 2019.1.f.14, Visual Studio Code
+- Windows 10 
+- Unity 2019.1.f.14
+- Visual Studio Code
 
 ### Target platform: 
 WebGL 1920x780
 
 ### Visuals: 
+
+#Programm Executed:
 <div>
 <img src = "Screenshots/running.JPG" width = "500">
+</div>
+#Programm Initialisation
+<div>
 <img src = "Screenshots/init.JPG" width = "500">
 </div> 
 
@@ -28,8 +35,8 @@ gitHub Template: https://github.com/3ahmnm-htlsbg/Unity2019114f1-2D-Template
 none
 
 ### Lessons Learned: 
-+How to create public variables, assign them in the scene to the script
-+Call Methods from "On-Click"
-+How to make objects uninteractable
+- How to create public variables, assign values to them in the scene
+- Call Methods from "On-Click"
+- How to make objects uninteractable
 
 Copyright by NicoB
